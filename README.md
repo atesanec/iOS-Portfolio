@@ -7,5 +7,5 @@ Project was written with Objective-C. Example represents video chat members list
 User can invite members to join video chat by tapping "hand" button. Group's chats and other chat members sections support batch loading
 CollectionView sections follow modular pattern - that is, each section managed by loosely coupled set of classes
 
-![Video Chat Members](img/hive_1.png) ![Video Chat Members](img/hive_2.png) ![Video Chat Members](img/hive_3.png)
+![Video Chat Members](img/hive_1.jpg) ![Video Chat Members](img/hive_2.jpg) ![Video Chat Members](img/hive_3.jpg)
 
