@@ -21,3 +21,7 @@ Technology stack includes RxSwift, Moya+ObjectMapper. Network request mapping le
 <img src="img/sol_2.jpg" width="40%">
 <img src="img/sol_3.jpg" width="40%">
 
+## Sticker App
+
+This app has quite straightforward goal - it allows user to view and download stickers for WhatsApp.
+The architecture employs dependency injection for component decoupling as well as Rx + Model-View-Interactor to orchestrate components.
